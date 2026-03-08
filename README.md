@@ -35,5 +35,3 @@ Execute these commands in the terminal via your package manager (`npm run <scrip
 ## 🧪 Testing Strategy
 
 This project enforces co-located tests. Test files should live directly next to their respective components or utility files (e.g., `Button.test.tsx` lives in the `Button/` directory). The environment is pre-configured with `jsdom` to support deep DOM assertion and behavioral testing right out of the box.
-# modern-react-ts-boilerplate
-A highly optimized, production-ready boilerplate designed to jumpstart React development. It prioritizes clean architecture, minimal configuration friction, and immediate testability using modern build tools.
